@@ -67,4 +67,6 @@ int main()
     }
 
     std::cout << "Sent message to client: " << message << std::endl;
+    
+    return 0;
 }
